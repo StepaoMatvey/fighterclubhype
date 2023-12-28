@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://i.redd.it/b8jfz2el15491.jpg');
+  }
+  
+  button {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 18px;
+  }
+  
